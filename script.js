@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Blinix gay');
+    alert('Ya sabiamos pa');
 });
