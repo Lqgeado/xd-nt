@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Ya sabiamos pa');
+    alert('Ya sabiamos');
 });
